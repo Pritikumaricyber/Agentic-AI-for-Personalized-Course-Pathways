@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LearnMate - Course Recommender</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <!--<h1>🎓 LearnMate</h1>-->
+    <h1><i class="fas fa-graduation-cap"></i> LearnMate</h1>
+
+    <p>Get a personalized course roadmap based on your goals!</p>
+
+    <form id="learningForm">
+      <label for="interest">Choose your interest area:</label>
+      <select id="interest" required>
+        <option value="">-- Select --</option>
+        <option value="Frontend Development">Frontend Development</option>
+        <option value="Cybersecurity">Cybersecurity</option>
+        <option value="UI/UX Design">UI/UX Design</option>
+      </select>
+
+      <label for="level">Choose your current skill level:</label>
+      <select id="level" required>
+        <option value="">-- Select --</option>
+        <option value="Beginner">Beginner</option>
+        <option value="Intermediate">Intermediate</option>
+        <option value="Advanced">Advanced</option>
+      </select>
+
+      <button type="submit">
+  <i class="fas fa-magic"></i> Get My Course Path
+</button>
+
+    </form>
+
+
+<div id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

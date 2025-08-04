@@ -1,0 +1,100 @@
+{
+  "Frontend Development": {
+    "Beginner": [
+      {
+        "title": "HTML & CSS Basics",
+        "platform": "IBM SkillsBuild",
+        "duration": "5 hours",
+        "link": "https://skillsbuild.org/html-css"
+      },
+      {
+        "title": "JavaScript Essentials",
+        "platform": "freeCodeCamp",
+        "duration": "8 hours",
+        "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+      }
+    ],
+    "Intermediate": [
+      {
+        "title": "React Fundamentals",
+        "platform": "Coursera",
+        "duration": "10 hours",
+        "link": "https://www.coursera.org/learn/react"
+      }
+    ],
+    "Advanced": [
+      {
+        "title": "Advanced Frontend Architecture",
+        "platform": "Pluralsight",
+        "duration": "12 hours",
+        "link": "https://www.pluralsight.com/courses/frontend-architecture"
+      }
+    ]
+  },
+
+  "Cybersecurity": {
+    "Beginner": [
+      {
+        "title": "Cybersecurity Basics",
+        "platform": "IBM SkillsBuild",
+        "duration": "4 hours",
+        "link": "https://skillsbuild.org/cybersecurity-basics"
+      },
+      {
+        "title": "Network Security Essentials",
+        "platform": "Udemy",
+        "duration": "6 hours",
+        "link": "https://www.udemy.com/course/network-security/"
+      }
+    ],
+    "Intermediate": [
+      {
+        "title": "CompTIA Security+ Prep",
+        "platform": "Coursera",
+        "duration": "12 hours",
+        "link": "https://www.coursera.org/learn/comptia-security-plus"
+      }
+    ],
+    "Advanced": [
+      {
+        "title": "Ethical Hacking Mastery",
+        "platform": "Pluralsight",
+        "duration": "15 hours",
+        "link": "https://www.pluralsight.com/courses/ethical-hacking"
+      }
+    ]
+  },
+
+  "UI/UX Design": {
+    "Beginner": [
+      {
+        "title": "Intro to UI/UX Design",
+        "platform": "IBM SkillsBuild",
+        "duration": "3 hours",
+        "link": "https://skillsbuild.org/uiux"
+      },
+      {
+        "title": "Design Thinking Basics",
+        "platform": "Google",
+        "duration": "5 hours",
+        "link": "https://www.coursera.org/learn/innovative-ideas"
+      }
+    ],
+    "Intermediate": [
+      {
+        "title": "Figma UI Design",
+        "platform": "freeCodeCamp",
+        "duration": "6 hours",
+        "link": "https://www.freecodecamp.org/news/learn-figma/"
+      }
+    ],
+    "Advanced": [
+      {
+        "title": "UX Research & Case Studies",
+        "platform": "LinkedIn Learning",
+        "duration": "8 hours",
+        "link": "https://www.linkedin.com/learning/ux-research"
+      }
+    ]
+  }
+}
